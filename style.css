@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,700;1,400&display=swap");
+
+html {
+  background-color: #263034;
+}
+
+body {
+  background-image: url("images/gif2.gif");
+  background-size: 100%;
+  background-repeat: repeat-y;
+  background-attachment: fixed;
+  height: 100%;
+  width: 100%;
+}
